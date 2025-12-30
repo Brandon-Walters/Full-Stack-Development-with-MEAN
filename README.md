@@ -1,4 +1,4 @@
-# CS-465 Full Stack Development with MEAN
+# Full Stack Development with MEAN
 
 ## Overview
 This project was completed as part of the CS-465 Full Stack Development course and demonstrates a full-stack web application built using the MEAN stack.
